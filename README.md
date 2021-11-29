@@ -1,4 +1,4 @@
-### Hi there :bowtie: ![Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/FullStackDeveloper.gif)
+### Hi there :bowtie: ![Iván Gorojovsky, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/FullStackDeveloper.gif)
 
 
 <table border="1" align="center">
@@ -12,7 +12,6 @@
         <h4>:star: Java </h4>
         <h4>:star: Python </h4>
         <h4>:star: R </h4>
-        <h4>:star: PL SQL Oracle </h4>
     </td>
     <td>
         <h4>:star: React </h4>
@@ -20,14 +19,16 @@
         <h4>:star: NodeJs </h4>
         <h4>:star: Express </h4>
         <h4>:star: Postgres </h4>
-        <h4>:star: Sequelize ORM </h4>
+        <h4>:star: React Native </h4>
+        <h4>:star: Tailwindcss </h4>
+        <h4>:star: MaterialUI </h4>
     </td>
  </tr>
 </table>
 
 ![Skills](https://github.com/kwaale/kwaale/blob/main/files/gifSkills.gif)
 
-## :boom: [Portfolio](https://kwaale.github.io/PortFolioWeb/)
+## :boom: [Portfolio](https://ru-ri-z.github.io/Portfolio-React/)
 
 ## :telephone_receiver: Contacts
 <a href="https://wa.link/umcha9"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
@@ -37,5 +38,5 @@
 
 <a href="files/Knut Waale Full Stack Development-es.pdf"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
 
-## :boom: knutwaale@gmail.com
-## <a href="wa.link/umcha9"> :boom: +54-911-6815-1380</a>
+## :boom: ivangorojovsky91@gmail.com
+## <a href="wa.link/umcha9"> :boom: +5493514599595</a>
