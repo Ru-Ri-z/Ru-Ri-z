@@ -31,8 +31,8 @@
 ## :boom: [Portfolio](https://ru-ri-z.github.io/Portfolio-React/)
 
 ## :telephone_receiver: Contacts
-<a href="https://wa.link/umcha9"><img width="5%" src="https://www.linkedin.com/in/iv%C3%A1n-gorojovsky-84577b184/"/></a>
-<a href="https://github.com/kwaale"><img width="5%" src="https://github.com/Ru-Ri-z"/></a>
+<a href="https://wa.link/umcha9"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
+<a href="https://github.com/kwaale"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/gitHub.png"/></a>
 <a href="mailto:ivangorojovsky91@gmail.com?Subject=Hola Knut"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/developer-knutwaale/"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/linkein.png"/></a>
 
