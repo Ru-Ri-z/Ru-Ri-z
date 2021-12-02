@@ -1,5 +1,4 @@
-### Hi there :bowtie: ![Iván Gorojovsky, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/FullStackDeveloper.gif)
-
+### Hi there :bowtie: !
 
 <table border="1" align="center">
  <tr>
