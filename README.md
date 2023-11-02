@@ -2,7 +2,7 @@
 
 ⚡ I'm a Frontend developer mainly working with the MERN Stack and developing mobile applications using React Native and Swift. Additionally, I have experience in cloud services such as AWS and GCP.
 
-🔭 I am currently working at [APPA](https://www.linkedin.com/company/appa-arg/) as a Full Stack Developer and [Coderhouse](https://www.linkedin.com/school/coderhouse// "Coderhouse") as a tutor coordinator in React Native and React.js and Backend (NodeJs) courses.
+🔭 I am currently working at [APPA](https://www.linkedin.com/company/appa-arg/) as a Frontend Developer and Mobile Developer and [Coderhouse](https://www.linkedin.com/school/coderhouse// "Coderhouse") as a tutor coordinator in React Native and React.js and Backend (NodeJs) courses.
 
 🌱 My experience in APPA (8 months):
 
